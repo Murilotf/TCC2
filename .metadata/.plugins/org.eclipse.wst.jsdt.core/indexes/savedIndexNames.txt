@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+C:\Users\BOSS\Documents\GitHub\TCC2\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+53394614.index
+2664193714.index
+3594985739.index
+3170530086.index
+3176070437.index
