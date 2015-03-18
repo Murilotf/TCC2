@@ -174,3 +174,28 @@ started,bundle,org.jboss.tools.jmx.core,1.3.1.v20120715-0236-H78-Final,"org.jbos
 started,bundle,org.jboss.ide.eclipse.archives.webtools,2.3.1.v20120715-0243-H142-Final,"org.jboss.ide.eclipse.archives.webtools",1426638832158
 started,bundle,org.jboss.ide.eclipse.as.wtp.core,2.3.1.v20120715-0243-H142-Final,"org.jboss.ide.eclipse.as.wtp.core",1426638832158
 started,bundle,org.eclipse.pde.core,3.7.1.v20120103_r372,"org.eclipse.pde.core",1426638832189
+started,bundle,org.jboss.ide.eclipse.as.ui.mbeans,2.3.1.v20120715-0243-H142-Final,"org.jboss.ide.eclipse.as.ui.mbeans",1426638832204
+started,bundle,org.eclipse.wst.dtd.core,1.1.501.v201107252021,"org.eclipse.wst.dtd.core",1426638832641
+started,bundle,org.eclipse.wst.sse.ui,1.3.2.v201201041522,"org.eclipse.wst.sse.ui",1426638832641
+started,bundle,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.ui",1426638832657
+started,bundle,org.eclipse.wst.sse.core,1.1.602.v201112071516,"org.eclipse.wst.sse.core",1426638832672
+started,bundle,org.eclipse.jst.jsf.common,1.2.3.v201104061039,"org.eclipse.jst.jsf.common",1426638832688
+started,bundle,org.eclipse.jst.jsf.core,1.3.105.v201108261005,"org.eclipse.jst.jsf.core",1426638832688
+started,bundle,org.eclipse.jst.jsp.core,1.2.402.v201112071853,"org.eclipse.jst.jsp.core",1426638832704
+started,bundle,org.eclipse.wst.wsdl.validation,1.1.502.v201104071820,"org.eclipse.wst.wsdl.validation",1426638832735
+started,bundle,org.eclipse.wst.xsd.core,1.1.600.v201104070312,"org.eclipse.wst.xsd.core",1426638832735
+started,bundle,org.eclipse.wst.xsl.core,1.1.100.v201102270516,"org.eclipse.wst.xsl.core",1426638832735
+started,bundle,org.eclipse.jpt.common.core,1.0.2.v201111103010,"org.eclipse.jpt.common.core",1426638832782
+started,bundle,org.eclipse.jpt.jpa.core,3.0.2.v201201243020,"org.eclipse.jpt.jpa.core",1426638832782
+started,bundle,org.eclipse.wst.jsdt.manipulation,1.0.300.v201104272153,"org.eclipse.wst.jsdt.manipulation",1426638833047
+started,bundle,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui",1426638833047
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1426638834030
+error,log,,,"No repository found at http://download.scala-ide.org/update-current.",1426638852399
+error,log,,,"No repository found at http://download.eclipse.org/webtools/downloads/drops/R3.5.1/R-3.5.1-20130913223750/.",1426638881474
+error,log,,,"No repository found at http://download.scala-ide.org/sdk/e38/scala310/stable/site.",1426638907676
+started,bundle,org.eclipse.equinox.p2.director,2.1.1.v20111126-0211,"org.eclipse.equinox.p2.director",1426638910228
+started,bundle,org.eclipse.equinox.p2.garbagecollector,1.0.200.v20110815-1419,"org.eclipse.equinox.p2.garbagecollector",1426638910238
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1426638955177
+started,bundle,org.eclipse.jst.ws.jaxws.dom.integration,1.0.101.v201201031437,"org.eclipse.jst.ws.jaxws.dom.integration",1426638956695
+started,bundle,org.eclipse.jst.ws.jaxws.dom.ui,1.0.0.v201004171919,"org.eclipse.jst.ws.jaxws.dom.ui",1426638956701
+started,bundle,org.jboss.ide.eclipse.archives.ui,3.3.1.v20120715-0237-H92-Final,"org.jboss.ide.eclipse.archives.ui",1426638956723
